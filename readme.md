@@ -1,3 +1,7 @@
+Below are comments extracted programmatically from the linux kernel
+source code, for use in an artist's book I created.
+
+````
 There shouldn't be any pending callbacks on an offline CPU.
 Do we wait until *after* callback?
 We could deadlock if we have to wait here with interrupts disabled!
@@ -5516,3 +5520,4 @@ Can be preempted by NMI.
 Can be preempted by NMI.
 Make sure that IRQ works are initialized before enabling.
 Flush pending messages that did not have scheduled IRQ works.
+````
