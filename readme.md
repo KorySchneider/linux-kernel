@@ -1,4 +1,4 @@
-Below are comments extracted programmatically from the linux kernel
+Each line below is a comment extracted programmatically from the linux kernel
 source code, for use in an artist's book I created.
 
 ````
