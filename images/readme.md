@@ -1,23 +1,17 @@
-<h3 style='text-align: center'>Front cover</h3>
-
+### Front cover
 ![front cover](frontCover.jpg)
 
-<h3 style='text-align: center'>Title page</h3>
-
+### Title page
 ![title page](title.jpg)
 
-<h3 style='text-align: center'>First page</h3>
-
+### First page
 ![first page](firstPage.jpg)
 
-<h3 style='text-align: center'>Interesting page</h3>
-
+### Interesting page
 ![interesting page](typicallyEquivalent.jpg)
 
-<h3 style='text-align: center'>Last page</h3>
-
+### Last page
 ![last page](lastPage.jpg)
 
-<h3 style='text-align: center'>Back cover</h3>
-
+### Back cover
 ![back cover](backCover.jpg)
